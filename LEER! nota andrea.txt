@@ -1,0 +1,14 @@
+...FECHA 21/04/2024...
+
+* creacion de los siguientes archivos en:
+
+resources/auth/
+
+-login.blade.php
+-register.blade.php
+
+-se hizo la vista del login y registro, con bootstrap.
+
+* Adición de routes para login y registro en "web.php".
+* Creacion del archivo AuthController.php en APP/HTTP/CONTROLLERS. Se ha añadido una clase con sus metodos de register, login y logout
+para mostrar las vistas creadas.
